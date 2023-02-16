@@ -11,7 +11,7 @@ public class Pyramid {
                 }
                 System.out.print(Math.abs(k));
             }
-            System.out.println(" ".repeat(offset));
+            System.out.println();
         }
     }
 
